@@ -99,8 +99,8 @@ Key features:
 └── PIC18F4580- datasheet.pdf
 ```
 
-### Tools Used
-1-> MPLAB IDE
-2-> c18 Complier
-3-> Proteus
-
+## Tools Used
+- MPLAB IDE  
+- C18 Complier  
+- Proteus
+---
