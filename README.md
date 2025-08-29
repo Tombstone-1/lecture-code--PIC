@@ -95,8 +95,7 @@ Key features:
 │   ├── 62.button_debounce_function/
 │   └── 63.button_debounce_wo_interrupt/
 │
-├── Proteus/
-└── PIC18F4580- datasheet.pdf
+└── Proteus/
 ```
 
 ## Tools Used
